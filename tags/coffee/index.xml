@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coffee on 伊森書房 Eason study</title>
+    <link>https://example.org/tags/coffee/</link>
+    <description>Recent content in coffee on 伊森書房 Eason study</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 31 Jul 2022 21:09:35 +0800</lastBuildDate><atom:link href="https://example.org/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 02</title>
+      <link>https://example.org/draft/day-02/</link>
+      <pubDate>Sun, 31 Jul 2022 21:09:35 +0800</pubDate>
+      
+      <guid>https://example.org/draft/day-02/</guid>
+      <description>Day nn. {title} 前言 write something cool&amp;hellip;
+主要內容 write something cool&amp;hellip;
+小結 write something cool&amp;hellip;
+參考連結 </description>
+    </item>
+    
+    <item>
+      <title>Day 01</title>
+      <link>https://example.org/draft/day-01/</link>
+      <pubDate>Sun, 31 Jul 2022 18:46:59 +0800</pubDate>
+      
+      <guid>https://example.org/draft/day-01/</guid>
+      <description>Day nn. {title} 前言 write something cool&amp;hellip;
+主要內容 write something cool&amp;hellip;
+小結 write something cool&amp;hellip;
+參考連結 </description>
+    </item>
+    
+  </channel>
+</rss>
