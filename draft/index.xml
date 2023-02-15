@@ -1,30 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drafts on 伊森書房 Eason study</title>
+    <title>Drafts on 伊森書房 EasonChill</title>
     <link>https://easonchill.github.io/draft/</link>
-    <description>Recent content in Drafts on 伊森書房 Eason study</description>
+    <description>Recent content in Drafts on 伊森書房 EasonChill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 31 Jul 2022 21:09:35 +0800</lastBuildDate><atom:link href="https://easonchill.github.io/draft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 22:21:57 +0800</lastBuildDate><atom:link href="https://easonchill.github.io/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Day 02</title>
-      <link>https://easonchill.github.io/draft/day-02/</link>
-      <pubDate>Sun, 31 Jul 2022 21:09:35 +0800</pubDate>
+      <title>AtomicRabbits</title>
+      <link>https://easonchill.github.io/draft/atomicrabbits/</link>
+      <pubDate>Wed, 11 Jan 2023 22:21:57 +0800</pubDate>
       
-      <guid>https://easonchill.github.io/draft/day-02/</guid>
-      <description>Day nn. {title} 前言 write something cool&amp;hellip;
-主要內容 write something cool&amp;hellip;
-小結 write something cool&amp;hellip;
-參考連結 </description>
-    </item>
-    
-    <item>
-      <title>Day 01</title>
-      <link>https://easonchill.github.io/draft/day-01/</link>
-      <pubDate>Sun, 31 Jul 2022 18:46:59 +0800</pubDate>
-      
-      <guid>https://easonchill.github.io/draft/day-01/</guid>
+      <guid>https://easonchill.github.io/draft/atomicrabbits/</guid>
       <description>Day nn. {title} 前言 write something cool&amp;hellip;
 主要內容 write something cool&amp;hellip;
 小結 write something cool&amp;hellip;
